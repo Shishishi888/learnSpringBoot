@@ -1,0 +1,31 @@
+person:
+  userName: "ShiYang \n Shishi" # 转义
+#  userName: 'ShiYang \n Shishi' # 不转义
+  boss: true
+  birth: 1997/10/13
+  age: 24
+#  interests: [football, basketball]
+  interests:
+    - "football"
+    - basketball
+  animal: [cat, dog]
+#  score:
+#    english: 80
+#    math: 90
+  score: {english: 80, math: 90}
+  sayary:
+    - 9999.98
+    - 9999.99
+  pet:
+    name: cat1
+    weight: 16
+  allPets:
+    sick:
+      - {name: cat2, weight: 18}
+      - name: cat3
+        weight: 19
+      - name: cat4
+        weight: 20
+    health:
+      - {name: cat5, weight: 21}
+      - {name: cat6, weight: 22}

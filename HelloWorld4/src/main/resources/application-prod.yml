@@ -1,0 +1,6 @@
+person:
+  name: prod-ShiYang
+#  age: 24
+
+server:
+  port: 8000
